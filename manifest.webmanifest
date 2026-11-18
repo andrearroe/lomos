@@ -1,0 +1,19 @@
+{
+ "name": "Lomos · mi librería",
+ "short_name": "Lomos",
+ "description": "Tu librería de bolsillo: lomos, ruletas, mood y stats de lectura.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#A85A6E",
+ "theme_color": "#F3E6DA",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  }
+ ]
+}
